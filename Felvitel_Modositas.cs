@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace WF_PCKonfiguraciok
 {
-    public partial class Form1 : Form
+    public partial class Form_Felvitel_Modositas : Form
     {
-        public Form1()
+        public Form_Felvitel_Modositas()
         {
             InitializeComponent();
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
         }
     }
 }
